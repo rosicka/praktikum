@@ -1,0 +1,5 @@
+materiál;wolfram;mìï;kanthal;železo;mosaz;chromnikl
+\popi{R}{m\ohm};136,5;10,72;6211;1475;220,7;1179
+popi{\sigma(R\_{odh})}{m\ohm};0,5;0,05;1;1;0,2;1
+popi{\sigma(R\_{dek})}{m\ohm};0,0;0,002;1;0,3;0,04;0,2
+popi{\sigma(R)}{m\ohm};0,5;0,05;2;1;0,2;1

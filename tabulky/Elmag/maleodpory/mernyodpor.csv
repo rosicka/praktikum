@@ -1,0 +1,8 @@
+materiál;wolfram;mìï;kanthal;železo;mosaz;chromnikl
+\popi{\rho_{Keathley}}{e{-8} \ohm.m};8,1;2,39;194;32;9,8;151
+\popi{\sigma(\rho_{Keathley})}{e{-8} \ohm.m};0,2;0,03;8;3;0,3;2
+\popi{\rho_{Wheatson}}{e{-8} \ohm.m};8,4;3,05;191;31;9,8;149
+\popi{\sigma(\rho_{Wheatson})}{e{-8} \ohm.m};0,2;0,04;8;3;0,3;2
+\popi{\rho_{Thompson}}{e{-8} \ohm.m};8,1;2,48;194;32;9,8;151
+\popi{\sigma(\rho_{Thompson})}{e{-8} \ohm.m};0,2;0,02;8;3;0,3;2
+\popi{\rho_{tab}}{e{-8} \ohm.m};5,4;1,75;145;10;7,5;110
